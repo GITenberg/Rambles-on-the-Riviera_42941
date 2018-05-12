@@ -1,0 +1,40 @@
+_repo: Rambles-on-the-Riviera_42941
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: McManus, Blanche
+    aliases:
+    - MacManus, Blanche
+    - Mansfield, Blanche McManus
+    birthdate: 1869
+    deathdate: 1935
+    gutenberg_agent_id: '31610'
+    url: http://www.gutenberg.org/2009/agents/31610
+covers:
+- cover_type: archival
+  image_path: 42941-h/images/inside-cover.jpg
+creator:
+  author:
+    agent_name: Mansfield, M. F. (Milburg Francisco)
+    aliases:
+    - Mansfield, M.F
+    - Mansfield, Milburg Francisco
+    - Miltoun, Francis
+    birthdate: 1871
+    gutenberg_agent_id: '31606'
+    url: http://www.gutenberg.org/2009/agents/31606
+description: ''
+gutenberg_issued: '2013-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42941'
+  lccn: 06029989
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Riviera (France) -- Description and travel'
+- !lcc 'DC'
+title: Rambles on the Riviera
+url: http://www.gutenberg.org/ebooks/42941
